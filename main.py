@@ -5,4 +5,4 @@ num1 = 300
 num2 = 600
 sum = num1 + num2
 
-print(f"sum of numbers equals {sum}")
+print(f"sum of LICZBY equals {sum}")
